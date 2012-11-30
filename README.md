@@ -23,12 +23,11 @@ Then run it! Couldn't be simpler, could it? (Oh, and make sure you're not suffic
 Much like Voyager, we host the facilities for you to build your own pod if you're not happy with the fleet issued ones. Please read the documentation for available methods.
 
 ## Links
+* [Risa Live main channel](http://twitch.tv/hyperbolicbubble)
 * Risa Live commands
-* Tutorial: How to make a Mk. I Pod.
-* Pod Documentation (Available methods, and recommendation of use)
-* Technical Documentation
-* Risa main channel
-* Risa statistics (for those of you who get the thrills for stats)
+* Ensign: How to make a Mk. I Pod.
+* Pod Scrap Yard (API Documentation)
+* Stellar Cartography (Risa Live statistics)
 
 ## Notes
 Risa will announce itself when joining a channel, but will be silent from there on until the channel owner permits it to start. This is to prevent it be used accidentally, or as a tool to harass people.

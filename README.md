@@ -8,7 +8,9 @@ We host our own Risa, which is available globally throughout the twitch network.
 
 To get Risa on your channel, go to: http://twitch.tv/hyperbolicbubble and enter in chat:
 
-`!invite channelname`
+`!invite [channelname]` - Replacing channel name, with the name of the channel you'd like.
+
+Additionally, typing just `!invite` will take the bot to the channel of the account who types it.
 
 *If you want your pod to be supported, send a link to your source code, to admin@hyperbolicbubble.com.*
 

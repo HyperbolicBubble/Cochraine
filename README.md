@@ -6,7 +6,7 @@ Risa is an IRC bot for the Twitch network. It has run-time management for plugin
 ## Live version
 We host our own Risa, which is available globally throughout the twitch network.
 
-To get Risa on your channel, go to: http://twitch.tv/hyperbolicbubble and enter in chat: `!invite [channelname]`. Additionally, typing just `!invite` will take the bot to the channel of the account who types it. From there type `!help` for further information.
+To get Risa on your channel, go to: http://twitch.tv/hyperbolicbubble and enter in chat: `!invite`. If you want the bot to go into a different channel, type the name afterwards with a space i.e. `!invite hypergod`. From there type `!help` for further information.
 
 *If you want your pod to be supported, send a link to your source code, to admin@hyperbolicbubble.com.*
 

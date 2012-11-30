@@ -25,9 +25,10 @@ Much like Voyager, we host the facilities for you to build your own pod if you'r
 ## Links
 * [Risa Live main channel](http://twitch.tv/hyperbolicbubble)
 * Risa Live commands
-* Ensign: How to make a Mk. I Pod.
-* Pod Scrap Yard (API Documentation)
-* Stellar Cartography (Risa Live statistics)
+* [Ensign: How to make a Mk. I Pod.](https://github.com/HyperbolicBubble/Risa/wiki/Ensign:-Making-a-Mk.-I-Pod)
+* [Pod Scrap Yard (API Documentation)](https://github.com/HyperbolicBubble/Risa/wiki/Pod-Scrap-Yard)
+* [Star Chart (Road Map)](https://github.com/HyperbolicBubble/Risa/wiki/Star-Chart)
+* [Stellar Cartography (Risa Live statistics)](https://github.com/HyperbolicBubble/Risa/wiki/Stellar-Cartography)
 
 ## Notes
 Risa will announce itself when joining a channel, but will be silent from there on until the channel owner permits it to start. This is to prevent it be used accidentally, or as a tool to harass people.

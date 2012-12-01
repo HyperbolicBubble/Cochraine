@@ -72,7 +72,7 @@ ipch/
 *.ncb
 *.opensdf
 *.sdf
-CMakeLists.txt.user
+*.user
 CMakeCache.txt
 CMakeFiles
 Makefile

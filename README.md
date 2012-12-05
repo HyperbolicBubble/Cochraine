@@ -20,7 +20,9 @@ Configuration file = example
 Then run it! Couldn't be simpler, could it? (Oh, and make sure you're not sufficating it with closed ports).
 
 ## Building your own pod
-Much like Voyager, we host the facilities for you to build your own pod if you're not happy with the fleet issued ones. Please read the documentation for available methods.
+Much like Voyager, we host the facilities for you to build your own pod if you're not happy with the fleet issued ones.
+
+All received messages are put into an internal message queue system, which is then distrubuted via event emitters to all the loaded pods.
 
 ## Links
 * [Cochraine Live main channel](http://twitch.tv/hyperbolicbubble)
